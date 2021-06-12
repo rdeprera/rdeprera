@@ -12,18 +12,10 @@
 </div>
 
 ---
-<img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/javascript/javascript-plain.svg" alt="Javascript logo" width="33%"  style="" />
-
-
-
-<div style="width:100%; margin: 0 auto">
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-</div>
-<img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/javascript/javascript-plain.svg" alt="Javascript logo" width="33%"  style="" />
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
----
+
 <!--
 **rdeprera/rdeprera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
