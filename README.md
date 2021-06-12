@@ -1,4 +1,4 @@
-# Hello Mundo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Tudo Bem?" style="margin:0 auto" height="50%" /> Aqui ser <a href="https://github.com/rdeprera/#-scroll-contatos">**Reinaldo Deprera** 💬</a>
+# Hello Mundo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Tudo Bem?" style="margin:auto; padding: 2em; height: 12em" /> Aqui ser <a href="https://github.com/rdeprera/#-scroll-contatos">**Reinaldo Deprera** 💬</a>
 
 
 ### <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Demais!" style="text-align: left" /> Minha Caixinha de Ferramentas - ToolBox :
