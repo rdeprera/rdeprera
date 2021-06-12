@@ -12,9 +12,13 @@
 </div>
 ---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="-----------------------------------------------------" style="max-width:100%;">
+<div style="width:100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="-----------------------------------------------------">
+</div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="-----------------------------------------------------" style="max-width:100%;">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="-----------------------------------------------------" style="width:100%;">
+
+---
 <!--
 **rdeprera/rdeprera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
