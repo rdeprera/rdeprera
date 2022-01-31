@@ -6,13 +6,14 @@
 				  width:100%;
 				}
 			</style>
-			<path id="path">
+			
+		</div>
+	</foreignObject>
+	<path id="path">
 		<animate attributeName="d" from="m0,110 h0" to="m0,110 h1100" dur="6.8s" begin="0s" repeatCount="indefinite"/>
 	</path>
 	<text font-size="26" font-family="Montserrat" fill='hsla(36, 95%, 85%, 1)'>
 		<textPath xlink:href="#path">Reinaldo Deprera
     </textPath>
 	</text>
-		</div>
-	</foreignObject>
 </svg>
