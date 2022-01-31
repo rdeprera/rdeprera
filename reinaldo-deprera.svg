@@ -4,10 +4,10 @@
 			<style>
 				@keyframes rotate {
 					0% {
-						transform: rotate(3deg);
+						transform: rotate(2deg);
 					}
 					100% {
-						transform: rotate(-3deg);
+						transform: rotate(-2deg);
 					}
 				}
 				@keyframes fadeIn {
@@ -41,7 +41,6 @@
 					height: 150px;
 					animation: gradientBackground 10s ease infinite;
 					border-radius: 10px;
-					color: white;
 					text-align: center;
 				}
 				h1#destaque {
@@ -59,7 +58,7 @@
 				}
 			</style>
 			<div class="container">
-				<h1 id="destaque"><a href="https://github.com/rdeprera/#-scroll-contatos"><strong>Reinaldo Deprera</strong> 💬</a><samp>: olá 🌍 && 🇧🇷!</samp></h1>
+				<h1 id="destaque"><a href="https://github.com/rdeprera/#-scroll-contatos"><strong>Reinaldo Deprera</strong> 💬</a> olá 🌍 && 🇧🇷!</h1>
 			</div>
 		</div>
 	</foreignObject>
