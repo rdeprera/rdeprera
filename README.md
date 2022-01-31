@@ -1,4 +1,4 @@
-<img src="reinaldo-deprera.svg" alt="Reinaldo Deprera" />
+# [<img src="reinaldo-deprera.svg" alt="Reinaldo Deprera" />](https://github.com/rdeprera/rdeprera#contatos)
 
 ## <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Demais!" style="text-align: left" /> Minha Caixinha de Ferramentas - ToolBox :
 <div style="width:100%; margin:0 auto; text align: center;">
@@ -35,4 +35,4 @@ https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icon
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Ferramentas de programação" />
-<img src="reinaldo-deprera.svg" width="400" height="400" alt="Reinaldo Deprera">
+Ass.: <em><img src="assinatura.svg" alt="Reinaldo Deprera"></em>
