@@ -35,4 +35,4 @@ https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icon
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Ferramentas de programação" />
-Ass.: <em><img src="assinatura.svg" alt="Reinaldo Deprera"></em>
+<em>Reinaldo Deprera</em>
