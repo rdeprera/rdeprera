@@ -44,7 +44,7 @@
 					text-align: center;
 					color:white;
 				}
-				h1#destaque {
+				#destaque {
 					font-size: 50px;
 					line-height: 1.3;
 					letter-spacing: 5px;
@@ -60,9 +60,9 @@
 					margin: 0 auto;
 				}
 			</style>
-			<div class="container">
-				<h1 id="destaque"><a href="https://github.com/rdeprera/#-scroll-contatos"><strong>Reinaldo Deprera</strong> 💬</a> olá 🌍 🇧🇷!</h1>
-			</div>
+			<span class="container">
+				<span id="destaque"><strong>Reinaldo Deprera</strong> 💬 olá 🌍 🇧🇷!</span>
+			</span>
 		</div>
 	</foreignObject>
 </svg>
