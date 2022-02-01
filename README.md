@@ -1,6 +1,7 @@
-# [<img src="reinaldo-deprera.svg" alt="Reinaldo Deprera" />](https://github.com/rdeprera/rdeprera#contatos)
+# [<img src="reinaldo-deprera.svg" alt="Reinaldo Deprera" />](https://github.com/rdeprera/rdeprera#contatos)  
+<img align="right" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Demais!" /> Minha Caixinha de Ferramentas - ToolBox :
+<br  clear="left" />
 
-## <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Demais!" style="text-align: left" /> Minha Caixinha de Ferramentas - ToolBox :
 <div style="width:100%; margin:0 auto; text align: center;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/php/php-plain.svg" width="32.48%" alt="PHP logo" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/cplusplus/cplusplus-plain.svg" width="32.48%"  alt="C++ logo" />
