@@ -9,33 +9,13 @@
 
 <br clear="left" />
 
-<div class="container" style="display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
-  grid-template-rows: 100px 100px;
-  grid-gap: 20px;">
-  <div class="item-a">item-a</div>
-  <div class="item-b">item-b</div>
-</div>
-
-
-<br clear="left" />
-
- <div style="display: grid;grid-template-columns: 0.25fr 10px 0.75fr;grid-template-rows: auto 20px auto 20px auto 20px auto;">
-  <div style="float:left; display:inline" >
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdeprera&theme=tokyonight)
-
-  </div>
-  <div  style="float:left; display:inline">
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rdeprera&show_icons=true&theme=tokyonight)
-    
-  </div>
-</div> 
+| Linguagens | Estatísticas |
+| :---       |         ---: |
+| ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rdeprera&theme=tokyonight)   | ![GitHub Estatísticas](https://github-readme-stats.vercel.app/api?username=rdeprera&show_icons=true&theme=tokyonight)    |
+| Mais usadas  | GitHub     |
 
 <!--
 Algumas estatísticas
-https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight
 -->
 
 <h3 id="contatos"> :scroll: Contatos</h2>
