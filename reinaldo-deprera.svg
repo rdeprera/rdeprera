@@ -42,7 +42,7 @@
 					animation: gradientBackground 10s ease infinite;
 					border-radius: 10px;
 					text-align: center;
-					color:white;
+					color:#e6f5e6;
 				}
 				#destaque {
 					font-size: 50px;
