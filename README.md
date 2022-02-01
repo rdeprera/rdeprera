@@ -9,10 +9,13 @@
 
 <br clear="left" />
 
-<section class="container" style="display: grid; grid-template-columns: 450px 450px; grid-template-rows: 300px; grid-auto-flow: row;">
-  <div class="item-a" style="grid-column: 1; grid-row: 1 / 2;">item-a</div>
-  <div class="item-b" style="grid-column: 2; grid-row: 2 / 2;">item-b</div>
-</section>
+<div class="container" style="display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 100px 100px;
+  grid-gap: 20px;">
+  <div class="item-a">item-a</div>
+  <div class="item-b">item-b</div>
+</div>
 
 
 <br clear="left" />
