@@ -6,7 +6,17 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/cplusplus/cplusplus-plain.svg" width="32.48%"  alt="C++ logo" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/javascript/javascript-plain.svg" width="32.48%" alt="Javascript logo" />
 </div>
+
 <br clear="left" />
+
+<section class="container" style="display: grid; grid-template-columns: 450px 450px; grid-template-rows: 300px; grid-auto-flow: row;">
+  <div class="item-a" style="grid-column: 1; grid-row: 1 / 2;">item-a</div>
+  <div class="item-b" style="grid-column: 2; grid-row: 2 / 2;">item-b</div>
+</section>
+
+
+<br clear="left" />
+
  <div style="display: grid;grid-template-columns: 0.25fr 10px 0.75fr;grid-template-rows: auto 20px auto 20px auto 20px auto;">
   <div style="float:left; display:inline" >
 
